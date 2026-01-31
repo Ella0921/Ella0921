@@ -75,9 +75,9 @@ Clinical ML project using structured healthcare data
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ella0921&show_icons=true&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ella0921&show_icons=true&theme=radical" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ella0921&layout=compact&theme=radical&hide_border=true" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ella0921&layout=compact&theme=radical" />
 
 </div>
 
