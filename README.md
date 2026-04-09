@@ -62,8 +62,7 @@ Python reimplementation of a CUHK SRPP research paper (originally MATLAB). Ident
 
 <div align="center">
 
-<img height="160" src="https://stats.hyped.workers.dev/api?username=Ella0921&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="160" src="https://stats.hyped.workers.dev/api/top-langs/?username=Ella0921&layout=compact&theme=default&hide_border=true&langs_count=6" />
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ella0921&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
