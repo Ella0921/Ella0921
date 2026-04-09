@@ -30,6 +30,7 @@ Currently pursuing a **Master of Data Science at UBC**.
 **ML / NLP:** PyTorch · scikit-learn · Transformers · LangChain  
 **Cloud & Infra:** GCP (BigQuery, Vertex AI) · Azure OpenAI · Docker  
 **BI & Analytics:** Power BI (DAX) · Tableau
+**Automation:** Power Automate · n8n
 
 ---
 
@@ -40,7 +41,7 @@ Multi-model pipeline comparing LLM prompt engineering vs traditional ML for 7-cl
 `SVM macro-F1 0.735` · `Gemini 2.5 Pro F1 0.605`  
 `Python` `LLMs` `scikit-learn` `Gemini` `Kimi-K2` `Prompt Engineering`
 
-**🔹 DQN Quantitative Trading Pipeline** · [repo](https://github.com/Ella0921/QuantitativeTrading)  
+**🔹 DQN Quantitative Trading Pipeline** · [repo](https://github.com/Ella0921/dqn-trading-pipeline)  
 MLOps pipeline combining a DQN agent and CNN Q-network for trading signal generation on Taiwan Weighted Index (^TWII, 2016–2024). Includes Airflow scheduling, MLflow experiment tracking, and a Streamlit + LLM report UI. Extended from a group project with full pipeline rebuild.  
 `Sharpe 0.504 → 1.061` after hyperparameter tuning · compared against 5 baselines  
 `Python` `TensorFlow` `DQN` `MLflow` `Airflow` `Streamlit`
@@ -50,7 +51,7 @@ Clinical ML model predicting extubation readiness from MIMIC-IV time-series EHR 
 `AUROC 0.822` · `Accuracy 80.66%` (Neural Network, best of 5 classifiers)  
 `Python` `SQL` `scikit-learn` `SHAP` `MIMIC-IV`
 
-**🔹 MLP vs DOE for A/B Testing** · [repo](https://github.com/Ella0921/ab-test-mlp-vs-factorial)  
+**🔹 MLP vs DOE for A/B Testing** · [repo](https://github.com/Ella0921/Comparing-Deep-Neural-Network-Application-in-A-B-Test)  
 Python reimplementation of a CUHK SRPP research paper (originally MATLAB). Identified and fixed a bug causing PCS to plateau at 0.5, and added a head-to-head budget comparison between MLP and factorial designs — missing from the original paper.  
 `PCS convergence verified` · `bug fix + equal-budget comparison added`  
 `Python` `NumPy` `DOE` `Experimental Design` `Research`
@@ -61,8 +62,8 @@ Python reimplementation of a CUHK SRPP research paper (originally MATLAB). Ident
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ella0921&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ella0921&layout=compact&theme=default&hide_border=true&langs_count=6" />
+<img height="160" src="https://stats.hyped.workers.dev/api?username=Ella0921&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="160" src="https://stats.hyped.workers.dev/api/top-langs/?username=Ella0921&layout=compact&theme=default&hide_border=true&langs_count=6" />
 
 </div>
 
