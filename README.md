@@ -73,19 +73,6 @@ Clinical ML project using structured healthcare data
 
 <div align="center">
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ella0921&show_icons=true&theme=radical" />
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ella0921&layout=compact&theme=radical" />
-
-
-</div>
-
----
-
-<div align="center">
-
 **Thanks for stopping by!**  
 I’m always happy to connect or collaborate on data-driven projects 🚀
 
