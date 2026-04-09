@@ -29,7 +29,7 @@ Currently pursuing a **Master of Data Science at UBC**.
 **Languages:** Python · SQL · R  
 **ML / NLP:** PyTorch · scikit-learn · Transformers · LangChain  
 **Cloud & Infra:** GCP (BigQuery, Vertex AI) · Azure OpenAI · Docker  
-**BI & Analytics:** Power BI (DAX) · Tableau
+**BI & Analytics:** Power BI (DAX) · Tableau  
 **Automation:** Power Automate · n8n
 
 ---
