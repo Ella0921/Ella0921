@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34D399&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B+I'm+Yin-Wen+(Ella)+Tsai;Data+Scientist+%26+Data+Engineer;LLMs+%7C+NLP+%7C+Data+Pipelines+%7C+BI;UBC+Master+of+Data+Science+Candidate" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34D399&center=true&vCenter=true&width=520&lines=Hi+%F0%9F%91%8B+I'm+Yin-Wen+(Ella)+Tsai;Data+Scientist+%26+ML+Engineer;LLMs+%7C+NLP+%7C+Data+Pipelines+%7C+BI;UBC+Master+of+Data+Science+Candidate" />
 
 </div>
 
